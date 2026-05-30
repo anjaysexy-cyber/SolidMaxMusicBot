@@ -2,10 +2,10 @@
 
 /*
  * TgMusicBot - Telegram Music Bot
- *  Copyright (c) 2025-2026 Ashok Shau
+ *  Copyright (c) 2026 Anjay Sexy
  *
  *  Licensed under GNU GPL v3
- *  See https://github.com/AshokShau/TgMusicBot
+ *  See https://github.com/Anjaysexy-cyber/SolidMaxMusicBot
  */
 
 package main
