@@ -1,4 +1,4 @@
-<h1 align="center">🎵 TGMusic Bot (Go)</h1>
+<h1 align="center">🎵 SolidMaxMusic Bot (Go)</h1>
 
 <p align="center">
   <a href="https://golang.org/">
@@ -9,9 +9,6 @@
   </a>
   <a href="https://github.com/AshokShau/TgMusicBot/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-GPL%20v3-green?style=for-the-badge" alt="License">
-  </a>
-  <a href="https://github.com/AshokShau/TgMusicBot/stargazers">
-    <img src="https://img.shields.io/github/stars/AshokShau/TgMusicBot?style=for-the-badge&color=ffd700&logo=github" alt="Stars">
   </a>
 </p>
 
@@ -169,25 +166,6 @@ The bot is configured via environment variables. See `sample.env` for all option
 - `/help` - Show help menu.
 
 </details>
-
----
-
-<div align="center">
-
-## ❤️ Donate
-
-</div>
-
-If you find this project useful, consider supporting its development with a donation:
-
-- **TON**: `UQDkCHTN1CA-j_5imVmliDlkqydJhE7nprQZrvFCakr67GEs`
-- **USDT TRC20**: `TJWZqPK5haSE8ZdSQeWBPR5uxPSUnS8Hcq`
-- **USDT TON**: `UQD8rsWDh3VD9pXVNuEbM_rIAKzV07xDhx-gzdDe0tTWGXan`
-- **Telegram Wallet**: [@Ashokshau](https://t.me/Ashokshau)
-
----
-
-<div align="center">
 
 ### 💬 Links
 
